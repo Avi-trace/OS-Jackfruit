@@ -1,6 +1,6 @@
 # OS-Jackfruit: Supervised Multi-Container Runtime
 
-**Student:** Avi-trace  
+**Student:** Avyukt Ranjan and Ansh Vardhan Singh  
 **Platform:** Linux Mint 22.3 (Ubuntu 24.04 base), Kernel 6.14.0-37-generic, Oracle VirtualBox VM  
 **Repository:** https://github.com/Avi-trace/OS-Jackfruit
 
